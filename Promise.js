@@ -39,7 +39,7 @@ const tt=getColdDrinks.then((t)=>{
 })
 
 tt.then((t)=>{
-    console.log(`They ${t} and get in.`)
+    console.log(`They ${t} and getin`)
 })
 console.log('person4: shows ticket');
 console.log('person5: shows ticket');

@@ -36,7 +36,6 @@ let coldDrink =await getColdDrinks;
     console.log(`wife: lets go, we are getting late`);
     console.log(`husband: thank you for the remider *grins*`);
 
-    
     return ticket;
 }
 
